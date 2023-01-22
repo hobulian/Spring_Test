@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac1fe595-636c-4223-ae4c-39f2f6a78569" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop001/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop001/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop001/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop002/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop002/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop002/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop002/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop002/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop003/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop003/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop003/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop003/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop003/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop004/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop004/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop004/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop004/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop004/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop005/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop005/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop005/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop005/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop005/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_01/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_01/KoreaTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_01/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_01/USTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_02/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_02/KoreaTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_02/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_02/USTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_03/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_03/KoreaTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_03/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert001_03/USTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert002/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert002/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert002/KoreaTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert002/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert002/USTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert003/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert003/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert003/KoreaTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert003/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert003/USTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert004/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert004/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert004/KoreaTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert004/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert004/USTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert005/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert005/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert005/KoreaTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert005/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert005/USTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert006/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert006/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert006/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert006/KoreaTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert006/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/expert006/USTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/aop002/aop002.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/aop003/aop003.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/aop004/aop004.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/aop005/aop005.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/expert002/expert002.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/expert003/expert003.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/expert004/expert004.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/expert005/expert005.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/expert006/expert006.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/expert001_01/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/expert001_02/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/expert001_03/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/expert003/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/expert004/CarTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KgLv9sQQhBVXgjqtGJKWDySDhk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/amand/바탕 화면/Spring_Test/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3839517",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amand\바탕 화면\Spring_Test\src\main\resources" />
+      <recent name="C:\Users\amand\바탕 화면\Spring_Test\src\main\java\aop005" />
+      <recent name="C:\Users\amand\바탕 화면\Spring_Test\src\main\java\aop004" />
+      <recent name="C:\Users\amand\바탕 화면\Spring_Test\src\main\java\aop003" />
+      <recent name="C:\Users\amand\바탕 화면\Spring_Test\src\main\java\aop002" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amand\바탕 화면\Spring_Test\src\main\resources\expert003" />
+      <recent name="C:\Users\amand\바탕 화면\Spring_Test\src\main\resources\expert002" />
+      <recent name="C:\Users\amand\바탕 화면\Spring_Test\src\main\resources" />
+      <recent name="C:\Users\amand\바탕 화면\Spring_Test\src\main\java\expert002" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aop002" />
+      <recent name="aop001" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.aop004.Start">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aop001.Start" />
+      <module name="Spring_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aop001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aop002.Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aop002.Start" />
+      <module name="Spring_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aop002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aop003.Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aop003.Start" />
+      <module name="Spring_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aop003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aop004.Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aop004.Start" />
+      <module name="Spring_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aop004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aop005.Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aop005.Start" />
+      <module name="Spring_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aop005.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.aop004.Start" />
+        <item itemvalue="Application.aop005.Start" />
+        <item itemvalue="Application.aop003.Start" />
+        <item itemvalue="Application.aop002.Start" />
+        <item itemvalue="Application.Start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac1fe595-636c-4223-ae4c-39f2f6a78569" name="Changes" comment="" />
+      <created>1674391507725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674391507725</updated>
+      <workItem from="1674391509098" duration="12051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aop003/Start.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
